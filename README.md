@@ -18,14 +18,14 @@ A full e-commerce site built in PHP, with a customer-facing storefront and an ad
 ## Setup
 
 1. Import the database using `dbinit.php` to create and hash the initial user table:
-   ```
-   https://localhost/php-ecommerce-site/dbinit.php
-   ```
+```
+https://localhost/php-ecommerce-site/dbinit.php
+```
 2. Log in as admin with `user1@mail.com` / `root`.
 
 ## Live Demo
 
-[shoperhub.vercel.app](https://shoperhub.vercel.app)
+Currently offline (hosting deployment expired). Run locally using the steps above.
 
 ## Author
 
